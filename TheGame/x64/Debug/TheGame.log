@@ -1,0 +1,54 @@
+﻿  MainCharacter.cpp
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(48,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(55,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(63,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(64,49): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(79,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(80,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(81,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(113,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(114,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(136,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(137,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(157,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(158,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(172,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(173,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(231,60): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(236,80): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(338,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(378,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(425,41): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(436,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(446,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(468,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(469,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(471,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(472,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(480,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(488,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(496,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(497,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(499,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(500,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(508,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(519,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.cpp(533,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(48,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(55,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(63,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(64,49): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(79,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(80,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(81,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(120,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(123,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(124,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(146,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(149,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(150,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(168,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(795,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  TheGame.vcxproj -> D:\C++\Program\PROJECT\TheGame\x64\Debug\TheGame.exe
